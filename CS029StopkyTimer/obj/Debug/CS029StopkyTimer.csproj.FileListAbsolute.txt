@@ -1,0 +1,10 @@
+C:\Users\oldab\Documents\CS029StopkyTimer\CS029StopkyTimer\bin\Debug\CS029StopkyTimer.exe.config
+C:\Users\oldab\Documents\CS029StopkyTimer\CS029StopkyTimer\bin\Debug\CS029StopkyTimer.exe
+C:\Users\oldab\Documents\CS029StopkyTimer\CS029StopkyTimer\bin\Debug\CS029StopkyTimer.pdb
+C:\Users\oldab\Documents\CS029StopkyTimer\CS029StopkyTimer\obj\Debug\CS029StopkyTimer.csprojAssemblyReference.cache
+C:\Users\oldab\Documents\CS029StopkyTimer\CS029StopkyTimer\obj\Debug\CS029StopkyTimer.CS029Stopky.resources
+C:\Users\oldab\Documents\CS029StopkyTimer\CS029StopkyTimer\obj\Debug\CS029StopkyTimer.Properties.Resources.resources
+C:\Users\oldab\Documents\CS029StopkyTimer\CS029StopkyTimer\obj\Debug\CS029StopkyTimer.csproj.GenerateResource.cache
+C:\Users\oldab\Documents\CS029StopkyTimer\CS029StopkyTimer\obj\Debug\CS029StopkyTimer.csproj.CoreCompileInputs.cache
+C:\Users\oldab\Documents\CS029StopkyTimer\CS029StopkyTimer\obj\Debug\CS029StopkyTimer.exe
+C:\Users\oldab\Documents\CS029StopkyTimer\CS029StopkyTimer\obj\Debug\CS029StopkyTimer.pdb
